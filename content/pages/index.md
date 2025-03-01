@@ -54,7 +54,7 @@ sections:
     actions:
       - type: Button
         label: Contact US
-        altText: ''
+        altText: Contact Us
         url: 'https://wa.me/251911281634'
         showIcon: false
         icon: arrowRight
