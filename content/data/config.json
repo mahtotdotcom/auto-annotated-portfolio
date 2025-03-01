@@ -52,38 +52,5 @@
             "caption": "Caption of the image",
             "elementId": ""
         }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            }
-        ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "+251911281634",
-            "phoneAltText": "Phone",
-            "email": "info@mahtot.com",
-            "emailAltText": "E-mail",
-            "address": "Helzer Tower Bole Addis Ababa Ethiopia",
-            "addressAltText": "Address"
-        },
-        "copyrightText": "Copyright Mahtot\n",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
     }
 }
