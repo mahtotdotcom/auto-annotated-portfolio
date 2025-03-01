@@ -13,18 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      At Mahtot.com, we specialize in software development, web design, digital
-      marketing, and business solutions that drive real growth. Our mission is
-      to empower businesses with innovative, high-performance digital solutions,
-      helping them scale efficiently in today’s competitive market.
-    subtitle: >-
-      Founded by Solomon Muluneh, an experienced entrepreneur, software
-      engineer, and business strategist, Mahtot has successfully delivered 100+
-      projects across various industries. With over 15 years of expertise in IT
-      consultancy, software development, and digital transformation, we provide
-      tailored solutions that meet the evolving needs of businesses and
-      organizations.
+    title: Coming Soon
+    subtitle: For more information call +251911281634
     styles:
       self:
         height: auto
@@ -61,86 +51,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
