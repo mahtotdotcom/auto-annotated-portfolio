@@ -71,7 +71,7 @@
             "email": "info@mahtot.com",
             "emailAltText": "E-mail",
             "address": "Helzer Tower Bole Addis Ababa Ethiopia",
-            "addressAltText": "My address"
+            "addressAltText": "Address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
