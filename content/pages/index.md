@@ -13,11 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      At Mahtot.com, we specialize in software development, web design, digital
-      marketing, and business solutions that drive real growth. Our mission is
-      to empower businesses with innovative, high-performance digital solutions,
-      helping them scale efficiently in today’s competitive market.
+    title: Coming Soon
     subtitle: >-
       Founded by Solomon Muluneh, an experienced entrepreneur, software
       engineer, and business strategist, Mahtot has successfully delivered 100+
