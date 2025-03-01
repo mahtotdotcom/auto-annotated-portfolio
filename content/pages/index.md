@@ -13,7 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: >-
+      At Mahtot.com, we specialize in software development, web design, digital
+      marketing, and business solutions that drive real growth. Our mission is
+      to empower businesses with innovative, high-performance digital solutions,
+      helping them scale efficiently in today’s competitive market.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
