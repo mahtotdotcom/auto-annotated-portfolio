@@ -53,7 +53,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: Contact US
         altText: ''
         url: 'https://wa.me/251911281634'
         showIcon: false
