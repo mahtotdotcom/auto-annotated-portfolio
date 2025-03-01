@@ -19,9 +19,12 @@ sections:
       to empower businesses with innovative, high-performance digital solutions,
       helping them scale efficiently in today’s competitive market.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Founded by Solomon Muluneh, an experienced entrepreneur, software
+      engineer, and business strategist, Mahtot has successfully delivered 100+
+      projects across various industries. With over 15 years of expertise in IT
+      consultancy, software development, and digital transformation, we provide
+      tailored solutions that meet the evolving needs of businesses and
+      organizations.
     styles:
       self:
         height: auto
