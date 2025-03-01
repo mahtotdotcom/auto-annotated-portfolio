@@ -14,13 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Coming Soon
-    subtitle: >-
-      Founded by Solomon Muluneh, an experienced entrepreneur, software
-      engineer, and business strategist, Mahtot has successfully delivered 100+
-      projects across various industries. With over 15 years of expertise in IT
-      consultancy, software development, and digital transformation, we provide
-      tailored solutions that meet the evolving needs of businesses and
-      organizations.
+    subtitle: For more information call +251911281634
     styles:
       self:
         height: auto
